@@ -21,8 +21,6 @@ The "Cars - Purchase Decision" dataset contains information about car purchase d
 - Pandas
 - NumPy
 - SciPy
-- Matplotlib
-- Seaborn
 - Plotly Express
 - Statsmodels
 - Jupyter Notebook
