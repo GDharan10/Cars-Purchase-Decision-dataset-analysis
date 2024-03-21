@@ -15,8 +15,6 @@ The "Cars - Purchase Decision" dataset contains information about car purchase d
 ## Repository Structure
 - `Cars - Purchase Decision.csv`: Contains the raw data files used in the analysis.
 - `Cars - Purchase Decision.ipynb`: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
-- `results/`: Output files, visualizations, and summaries generated during the analysis.
-- `README.md`: This file, providing an overview of the project.
 
 ## Dependencies
 - Python
