@@ -1,4 +1,4 @@
-# Cars-Purchase-Decision-dataset-analysis
+# Cars_purchase_decision_analysis
 
 ## Overview
 This repository contains the code and documentation for analyzing the "Cars - Purchase Decision" dataset using Python and statistical methods. The dataset contains information about car purchase decisions, including user demographics and whether they made a purchase. Our goal is to explore, analyze, and draw insights from this data.
